@@ -1,1 +1,1 @@
-# Sales_Excelproject
+# Sales_Excelproject |This project presents a comprehensive sales dashboard built in Microsoft Excel. It provides insightful visualizations and analysis of sales data to help understand business performance across products, regions, and time periods.|
